@@ -1,5 +1,7 @@
 # 🛡️ Ethigotchi - AI-Powered Wireless Security Companion  
 
+![Ethigotchi](https://i0.wp.com/efcomputer.net.au/blog/wp-content/uploads/2024/06/20240607_pwnagotchi.jpg?ssl=1)
+
 ## 📌 Overview  
 **Ethigotchi** is an AI-powered wireless security companion, inspired by **Pwnagotchi**, designed for **Wi-Fi security analysis and ethical hacking**. It leverages machine learning and automation to detect vulnerabilities in wireless networks, making it a valuable tool for cybersecurity enthusiasts and penetration testers.  
 
